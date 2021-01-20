@@ -3,8 +3,8 @@
 <br/>
 Deployment instructions: <br/>
   prerequisites: <br/>
-    - Java JDK 11.0.7 installed and JAVA_HOME environment variable set
-    - Port localhost:8082 should not be blocked
+    - Java JDK 11.0.7 installed and JAVA_HOME environment variable set<br/>
+    - Port localhost:8082 should not be blocked<br/>
     - Following REST API deployed and running: <br/>
       https://github.com/tautvydaskub/SingleIBANVerificationService (uses port localhost:8081)<br/>
   deployment steps:<br/>
